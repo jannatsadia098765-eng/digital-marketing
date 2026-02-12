@@ -1,6 +1,6 @@
 # Allow all search engines to crawl the whole site
-User-agent:*
-Allow:/
+User-agent: *
+Allow: /
 
 # Tell them where the map is
-Sitemap.https://digital-marketing-pi-drab.vercel.app/sitemap.xml
+Sitemap:https://digital-marketing-pi-drab.vercel.app/sitemap.xml
